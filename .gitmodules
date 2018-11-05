@@ -1,0 +1,3 @@
+[submodule "ArdPicProgHost"]
+	path = ArdPicProgHost
+	url = https://github.com/doomscar/ArdPicProgHost
