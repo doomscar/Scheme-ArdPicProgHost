@@ -1,3 +1,6 @@
 [submodule "ArdPicProgHost"]
 	path = ArdPicProgHost
 	url = https://github.com/doomscar/ArdPicProgHost
+[submodule "ProgramPic"]
+	path = ProgramPic
+	url = https://github.com/doomscar/ProgramPic
